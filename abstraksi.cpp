@@ -5,4 +5,7 @@ class AbstraksiKlas
 {
 private :
     string x, y;
+
+public :
 };
+
