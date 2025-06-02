@@ -10,3 +10,7 @@ public :
     }
 };
 
+class derivedClass : public baseClass
+{
+
+};
